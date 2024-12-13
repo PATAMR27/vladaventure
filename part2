@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Vladimir Poutine - Politique et Économie</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-image: url('shutterstock_editorial_12794609c.jpg');
+            background-size: cover;
+            background-position: center;
+        }
+        h1, h2 {
+            color: #1e3f66;
+        }
+        h2 {
+            border-bottom: 2px solid #1e3f66;
+            padding-bottom: 5px;
+        }
+        .content {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: rgba(255, 255, 255, 0.9);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px; 
+        }
+        a {
+            color: #1e3f66; 
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>Vladimir Poutine - Politique et Économie</h1>
+        <img src="JUMELLE.jpeg" alt="Image illustrative" />
+
+        <h2>Politique et influence</h2>
+        <p>Sous la direction de Vladimir Poutine, la Russie a adopté une politique étrangère assertive visant à renforcer son influence sur la scène internationale. Son style de leadership est souvent décrit comme autoritaire, avec un contrôle accru sur les médias et l'opposition. Poutine s'est progressivement affirmé comme un champion des nations cherchant à contester le leadership occidental.</p>
+
+        <p>En 2020, il a modifié la constitution pour accroître ses pouvoirs présidentiels et permettre un maintien prolongé au pouvoir. Ce changement a été approuvé par référendum, marquant un tournant dans la gouvernance russe.</p>
+
+        <h2>Économie et défis</h2>
+        <p>Pendant ses mandats, l'économie russe a connu une croissance significative, principalement grâce aux exportations d'hydrocarbures. Cependant, la Russie fait face à des défis économiques majeurs, notamment sa dépendance aux ressources naturelles et les sanctions internationales imposées après l'annexion de la Crimée en 2014.</p>
+
+        <p>Récemment, l'économie russe est entrée dans une phase de "surchauffe" due à l'augmentation des dépenses militaires. En 2025, il est prévu que 40 % du budget national soit consacré à la défense et à la sécurité. Cette situation entraîne une inflation élevée et des tensions sociales croissantes, avec un Russe sur trois n'ayant aucune épargne.</p>
+
+        <p>Vladimir Poutine demeure une figure centrale et controversée de la politique russe et internationale, façonnant profondément le paysage politique de la Russie moderne tout en influençant les relations internationales.</p>
+
+        <p><a href="RUSSIE.HTML">Retour à la Page 1</a></p>
+    </div>
+</body>
+</html>
